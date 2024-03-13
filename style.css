@@ -10,6 +10,14 @@
     display: flex;
 }
 
+.nav p {
+    margin-left: 80px;
+}
+
+ul {
+    display: flex;
+}
+
 main {
     
 }
@@ -17,12 +25,32 @@ main {
 .hero-section {
     background-color: #1F2937;
     color: white;
+    display: flex;
     padding: 50px 0;
 }
 
+.left-hero {
+    margin-left: 80px;
+}
+
+.right-hero div {
+    background-color: blue;
+    height: 200px;
+    width: 100px;
+}
 
 .illustration-section {
     padding: 50px 0;
+}
+
+.illustration h2 {
+    text-align: center;
+}
+
+.illustration-section div img {
+    border: 1px solid blue;
+    height: 150px;
+    width: 150px;
 }
 
 .illustration {
