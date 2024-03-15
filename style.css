@@ -36,7 +36,7 @@ ul li {
 
 .left-hero {
     margin-left: 150px;
-    width: 40%;
+    width: 30%;
 }
 
 .main-text {
@@ -48,6 +48,9 @@ ul li {
 .left-hero button {
     background-color: #3882F6;
     color: white;
+    height: 25px;
+    margin-top: 10px;
+    width: 70px;
 }
 
 .right-hero div {
@@ -56,8 +59,8 @@ ul li {
     display: flex;
     height: 180px;
     justify-content: center;
-    margin-left: 50px;
-    width: 350px;
+    margin-left: 200px;
+    width: 380px;
 }
 
 .illustration-section {
